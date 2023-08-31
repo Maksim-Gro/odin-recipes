@@ -1,1 +1,2 @@
-# odin-recipesA basic HTML webste showig a index.html file wich contains 3 other recepie html files
+# odin-recipes
+A basic HTML webste wich contains 3 other recepies/html files
