@@ -1,4 +1,9 @@
-h1{color: red;
-    background-color: blue ;
+.sign{color: #00163D;
+    background-color: #4b4a96 ;
     align-self: center;
     }
+.list{color: #4b4a96;
+    background-color:  ;
+    align-self: center;}
+
+body{ background-color:#89d2dc;}
