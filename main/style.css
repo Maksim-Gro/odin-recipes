@@ -1,0 +1,22 @@
+.sign{color: #00163D;
+    background-color: #4b4a96 ;
+    width: fit-content;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 50px;
+    }
+.list{color: #4b4a96;
+    background-color: #89d2dc ;
+    align-self: center;
+    margin-left: 100px;}
+li.Ratatouille{
+    padding-bottom: 30px;
+}
+li.Pizza{
+    padding-bottom: 30px;
+}
+li.Cooockie{
+
+}
+
+body{ background-color:#89d2dc;}
