@@ -1,0 +1,22 @@
+h1{
+    padding-left: 270px;
+    background-color:rgb(83, 74, 29);
+    color: rgb(119, 92, 18);
+        }
+    body{ background-color:rgb(78, 70, 34);}
+    
+    div{font-size: 30px;
+        padding-left: 270px;
+    color: rgb(112, 87, 18);}
+    
+    img{padding-inline-start: 180px;}
+    
+    ul{background-color: rgb(104, 92, 27);
+        color: rgb(150, 142, 53);}
+    
+    .steps{padding-left: 310px;
+        color: rgb(110, 105, 22);}
+    ol{padding-left: 310px;
+        align-self: center;
+        background-color: rgb(59, 52, 10);
+        color: rgb(100, 88, 36);}
